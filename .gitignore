@@ -1,5 +1,5 @@
 .DS_Store
 /node_modules
 index.js
-*.m4a
-*.png
+/downloads/*/*.m4a
+/downloads/images/
